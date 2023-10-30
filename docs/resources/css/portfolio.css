@@ -73,7 +73,7 @@
 
 .topBackground
 {
-    background-image: url('./resources/images/background.png');
+    background-image: url('../images/background.png');
     height: 50%;
 }
 
